@@ -46,24 +46,6 @@
 
 ---
 
-### 🧱 What I Do (in a nutshell)
-- Design clean **REST** APIs, webhook flows, and **payment** pipelines
-- Structure backends with **Service ↔ Repository** and feature modules
-- Tune **SQL** queries, add caching (Redis), queue jobs, and background workers
-- Integrate 3rd-party booking & marketplace APIs end-to-end
-- Ship production-safe code with logs, guards, and error handling
-
----
-
-### 📌 Featured Work
-> not: linkleri kendi repolarına göre güncelleyebilirsin
-
-- **FlowSpace.co** – Dynamic availability & desk booking engine (Laravel · MySQL · Stripe)
-- **Vendor Panel & Coupon Engine** – Advanced filtering, analytics, and commission metrics
-- **Travel Marketplace Integrations** – Availability, pricing, booking flows with providers
-
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=selimhanyldrm&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
