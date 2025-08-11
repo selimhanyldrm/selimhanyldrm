@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:selimhanyldrm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-selimhanyldrm@gmail.com-470043?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/selimhanyldrm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@selimhanyldrm-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/selimhanyldrm/](https://www.linkedin.com/in/selimhan-yildirim-7352b7239/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@selimhanyldrm-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=selimhanyldrm&color=0E06B4" alt="Profile Views" />
 </p>
 
