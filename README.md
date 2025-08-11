@@ -1,99 +1,112 @@
-# Hi 👋! I'm Selim Han, a Backend Developer from Turkey 🇹🇷
-
-## 🚀 About Me
-- 🔭 I’m currently working with *Laravel & PHP*
-- 🌱 Always learning and exploring new technologies
-- 💬 Ask me about *Laravel - Php - Node.js - Backend Development*
+<!-- Title & Intro -->
+<h1 align="center">Hi 👋, I'm Selim Han</h1>
+<p align="center">
+  <b>Backend Developer • Laravel & PHP • API Integrations • High-scale systems</b><br/>
+  From Türkiye 🇹🇷 · shipping reliable backends, payments & booking integrations.
+</p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=selimhanyldrm&color=0E06B4" alt="selimhanyldrm :: Profile Stats"></a>
-<a href="https://www.linkedin.com/in/selimhanyldrm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@selimhanyldrm-064E01?style=flat&logo=linkedin"></a>
-<a href="mailto:selimhanyldrm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-selimhanyldrm@gmail.com-470043?style=flat&logo=gmail"></a>
+  <a href="mailto:selimhanyldrm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-selimhanyldrm@gmail.com-470043?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/selimhanyldrm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@selimhanyldrm-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=selimhanyldrm&color=0E06B4" alt="Profile Views" />
 </p>
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center"> 
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  </a>
-  
+---
+
+### 🚀 About Me
+- 🔭 Currently building with **Laravel 11, PHP 8.x, MySQL** and a pinch of **Node.js**
+- 🧩 Love: **clean architecture, service–repository**, modular monoliths, API-first design
+- 💳 Integrations I’ve touched: **Stripe, Iyzico, SendGrid, Navlungo, Nominatim, Google Maps, OfficeRnD, Nexudus, Ventrata, Bókun**
+- 📦 I care about: reliability, observability (logs/metrics), and developer experience
+- 💬 Ask me about **Laravel, PHP, Node.js, API integrations, booking/payments**
+- 🌱 Learning & playing with **queues, caching strategies, event-driven designs**
+
+---
+
+### 🧰 Tech Stack
+<p align="left">
+  <!-- Core -->
+  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36"/>
+  <!-- DB -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="46" height="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="46" height="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="46" height="46"/>
+  <!-- Infra -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="36" height="36"/>
+  <!-- Web -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="46" height="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="46" height="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="46" height="46"/>
 </p>
 
+---
 
+### 🧱 What I Do (in a nutshell)
+- Design clean **REST** APIs, webhook flows, and **payment** pipelines
+- Structure backends with **Service ↔ Repository** and feature modules
+- Tune **SQL** queries, add caching (Redis), queue jobs, and background workers
+- Integrate 3rd-party booking & marketplace APIs end-to-end
+- Ship production-safe code with logs, guards, and error handling
 
+---
 
+### 📌 Featured Work
+> not: linkleri kendi repolarına göre güncelleyebilirsin
 
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
+- **FlowSpace.co** – Dynamic availability & desk booking engine (Laravel · MySQL · Stripe)
+- **Vendor Panel & Coupon Engine** – Advanced filtering, analytics, and commission metrics
+- **Travel Marketplace Integrations** – Availability, pricing, booking flows with providers
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selimhanyldrm&show_icons=true&theme=radical&count_private=true" alt="selimhanyldrm :: Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=selimhanyldrm&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
-<!---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=selimhanyldrm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selimhanyldrm&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=selimhanyldrm&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies">
+</p>
+
+---
+
+### 🗂️ Highlighted Topics
+- **Payments**: secure providers (3-DS, webhooks, reconciliation), split & marketplace flows  
+- **Bookings**: availability rules, duration/people pricing, timezone-safe reservations  
+- **Analytics**: seller KPIs (orders, revenue, commission), export & dashboard cards  
+- **Ops**: Nginx hardening, queues, schedulers, log pipelines, alerting basics  
+
+---
+
+### 🤝 Connect
+<p align="left">
+  <a href="mailto:selimhanyldrm@gmail.com"><b>Email</b></a> •
+  <a href="https://www.linkedin.com/in/selimhanyldrm/"><b>LinkedIn</b></a>
+</p>
+
+---
+
+<!-- 🐍 SNAKE -->
 <div align="center">
-
-[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=selimhanyldrm&bg_color=141321&line=fb418c&color=A9FEF7&custom_title=My%20Github%20Activity%20Graph&area=true&hide_border=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-*/
---->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=selimhanyldrm&theme=tokyonight&no-frame=true&margin-w=10">
-</p>  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selimhanyldrm&theme=tokyonight&hide_border=true">
-</p>  
-<div  align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selimhanyldrm/selimhanyldrm/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/selimhanyldrm/selimhanyldrm/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/selimhanyldrm/selimhanyldrm/output/github-contribution-grid-snake.svg" />
 </picture>
-
 </div>
+
+<!-- Optional: WakaTime (aktif kullanıyorsan aç) -->
+<!--
+### ⏱️ Weekly Development Breakdown
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=radical" />
+-->
