@@ -1,4 +1,4 @@
-# Hi 👋! I'm Diyar, a Backend Developer from Turkey 🇹🇷
+# Hi 👋! I'm Selim Han, a Backend Developer from Turkey 🇹🇷
 
 ## 🚀 About Me
 - 🔭 I’m currently working with *Laravel & PHP*
@@ -6,9 +6,9 @@
 - 💬 Ask me about *Laravel - Php - Node.js - Backend Development*
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=diyarguzelses&color=0E06B4" alt="diyarguzelses :: Profile Stats"></a>
-<a href="https://www.linkedin.com/in/diyarguzelses/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@diyarguzelses-064E01?style=flat&logo=linkedin"></a>
-<a href="mailto:diyarguzelses@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-diyarguzelses@gmail.com-470043?style=flat&logo=gmail"></a>
+<img src="https://komarev.com/ghpvc/?username=selimhanyldrm&color=0E06B4" alt="selimhanyldrm :: Profile Stats"></a>
+<a href="https://www.linkedin.com/in/selimhanyldrm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@selimhanyldrm-064E01?style=flat&logo=linkedin"></a>
+<a href="mailto:selimhanyldrm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-selimhanyldrm@gmail.com-470043?style=flat&logo=gmail"></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -74,25 +74,25 @@
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diyarguzelses&show_icons=true&theme=radical&count_private=true" alt="diyarguzelses :: Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=selimhanyldrm&show_icons=true&theme=radical&count_private=true" alt="selimhanyldrm :: Profile Stats" />
 </p>
 <!---
 <div align="center">
 
-[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=diyarguzelses&bg_color=141321&line=fb418c&color=A9FEF7&custom_title=My%20Github%20Activity%20Graph&area=true&hide_border=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=selimhanyldrm&bg_color=141321&line=fb418c&color=A9FEF7&custom_title=My%20Github%20Activity%20Graph&area=true&hide_border=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 */
 --->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diyarguzelses&theme=tokyonight&no-frame=true&margin-w=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=selimhanyldrm&theme=tokyonight&no-frame=true&margin-w=10">
 </p>  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diyarguzelses&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selimhanyldrm&theme=tokyonight&hide_border=true">
 </p>  
 <div  align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diyarguzelses/diyarguzelses/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/diyarguzelses/diyarguzelses/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/diyarguzelses/diyarguzelses/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/selimhanyldrm/selimhanyldrm/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/selimhanyldrm/selimhanyldrm/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/selimhanyldrm/selimhanyldrm/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
